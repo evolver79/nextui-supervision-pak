@@ -1,0 +1,15 @@
+{
+  "name": "SUPERVISION",
+  "version": "v1.0.0",
+  "type": "EMU",
+  "description": "Watara Supervision / Quickshot Supervision using the libretro Potator core. No BIOS needed.",
+  "author": "evolver79",
+  "repo_url": "https://github.com/evolver79/nextui-supervision-pak",
+  "release_filename": "SUPERVISION.pak.zip",
+  "changelog": {
+    "v1.0.0": "First release: Potator core, Game Boy-style controls, integer scaling."
+  },
+  "platforms": [
+    "tg5040"
+  ]
+}
